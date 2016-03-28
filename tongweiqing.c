@@ -7,5 +7,8 @@ int main()
   char* company = "Pactera";
   char* love = "haiyang";
   printf("name:%s\n",name);
-  printf("name:%s\n",name);
+  printf("age:%d\n",age);
+  printf("company:%s\n",company);
+  printf("love:%s\n",love);
+  printf("Thank you\n");
 }
